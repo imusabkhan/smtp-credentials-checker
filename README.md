@@ -1,4 +1,4 @@
-# SMTP-Credentials-Checker
+# SMTP Credentials Checker
 This repository contains a Python script to verify the validity of SMTP credentials. During penetration testing activities, I often encounter SMTP credentials and struggle to find a reliable tool to confirm their validity. To simplify this task, I developed this straightforward script to send emails using your local setup.
 
 If you find my work helpful and would like to show your support, you can buy me a coffee! ☕
