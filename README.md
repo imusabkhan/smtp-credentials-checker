@@ -21,7 +21,7 @@ If you find my work helpful and would like to show your support, you can buy me 
    ```bash
    git clone https://github.com/imusabkhan/smtp-credentials-checker.git
    cd smtp-credentials-checker
-   python check_smtp_credentials.py
+   python3 check_smtp_credentials.py
    ```
 2. Update the script with your email configuration and credentials:
    ```
